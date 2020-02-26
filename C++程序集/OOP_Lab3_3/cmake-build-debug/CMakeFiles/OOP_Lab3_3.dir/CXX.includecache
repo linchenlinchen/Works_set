@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/L2595/CLionProjects/OOP_Lab3_3/Id_number.cpp
+iostream
+-
+Id_number.h
+C:/Users/L2595/CLionProjects/OOP_Lab3_3/Id_number.h
+
+C:/Users/L2595/CLionProjects/OOP_Lab3_3/Id_number.h
+
+C:/Users/L2595/CLionProjects/OOP_Lab3_3/Id_student_number.h
+
+C:/Users/L2595/CLionProjects/OOP_Lab3_3/Identify.h
+iostream
+-
+
+C:/Users/L2595/CLionProjects/OOP_Lab3_3/main.cpp
+iostream
+-
+Identify.h
+C:/Users/L2595/CLionProjects/OOP_Lab3_3/Identify.h
+Id_number.h
+C:/Users/L2595/CLionProjects/OOP_Lab3_3/Id_number.h
+Id_student_number.h
+C:/Users/L2595/CLionProjects/OOP_Lab3_3/Id_student_number.h
+

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/L2595/CLionProjects/OOP_lab4_plus/Bignum.h
+string
+-
+vector
+-
+
+C:/Users/L2595/CLionProjects/OOP_lab4_plus/Matrix.cpp
+utility
+-
+iostream
+-
+Matrix.h
+C:/Users/L2595/CLionProjects/OOP_lab4_plus/Matrix.h
+
+C:/Users/L2595/CLionProjects/OOP_lab4_plus/Matrix.h
+Bignum.h
+C:/Users/L2595/CLionProjects/OOP_lab4_plus/Bignum.h
+string
+-
+
